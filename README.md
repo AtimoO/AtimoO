@@ -33,9 +33,9 @@
 ### 🛠Мой стек:
 
 <div>
-	<img src="https://cdn-icons-png.flaticon.com/512/888/888859.png" width="40" height="40" alt="HTML5">
+	<img src="https://img.icons8.com/color/344/html-5--v1.png" width="40" height="40" alt="HTML5">
 	&nbsp;
-	<img src="https://cdn-icons-png.flaticon.com/512/888/888847.png" width="40" height="40" alt="CSS">
+	<img src="https://img.icons8.com/color/344/css3.png" width="40" height="40" alt="CSS">
 	&nbsp;
 	<img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" width="40" height="40" alt="JS">
 	&nbsp;
@@ -45,9 +45,9 @@
 	&nbsp;
 	<img src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png" width="40" height="40" alt="TYPESCRIPT">
 	&nbsp;
-	<img src="https://cdn-icons-png.flaticon.com/512/1199/1199128.png" width="40" height="40" alt="MySQL">
+	<img src="https://img.icons8.com/color/344/mysql-logo.png" width="40" height="40" alt="MySQL">
 	&nbsp;
-	<img src="https://cdn-icons-png.flaticon.com/512/919/919836.png" width="40" height="40" alt="GIT">
+	<img src="https://img.icons8.com/color/344/git.png" width="40" height="40" alt="GIT">
 	&nbsp;
 </div>
 	&nbsp;
