@@ -25,7 +25,7 @@
 </a>
 &nbsp;
 <a href="https://t.me/at1mo">
-	<img src="https://cdn-icons.flaticon.com/png/512/3670/premium/3670070.png?token=exp=1651177379~hmac=f81326fd61378c76f3d9d62803e7a26d" width="40" height="40" alt="Telegram">
+	<img src="https://cdn-icons-png.flaticon.com/512/5968/5968804.png" width="40" height="40" alt="Telegram">
 </a>
 
 &nbsp;
@@ -45,9 +45,9 @@
 	&nbsp;
 	<img src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png" width="40" height="40" alt="TYPESCRIPT">
 	&nbsp;
-	<img src="https://cdn-icons.flaticon.com/png/512/4492/premium/4492311.png?token=exp=1651177730~hmac=1ca9891b31d1c7ce6d003690eef97bbc" width="40" height="40" alt="SQL">
+	<img src="https://cdn-icons-png.flaticon.com/512/1199/1199128.png" width="40" height="40" alt="MySQL">
 	&nbsp;
-	<img src="https://cdn-icons.flaticon.com/png/512/4494/premium/4494748.png?token=exp=1651177786~hmac=b228b9bf0545db3352a85b54ba584194" width="40" height="40" alt="GIT">
+	<img src="https://cdn-icons-png.flaticon.com/512/2111/2111288.png" width="40" height="40" alt="GIT">
 	&nbsp;
 </div>
 	&nbsp;
