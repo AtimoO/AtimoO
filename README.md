@@ -47,7 +47,7 @@
 	&nbsp;
 	<img src="https://cdn-icons-png.flaticon.com/512/1199/1199128.png" width="40" height="40" alt="MySQL">
 	&nbsp;
-	<img src="https://cdn-icons-png.flaticon.com/512/2111/2111288.png" width="40" height="40" alt="GIT">
+	<img src="https://cdn-icons-png.flaticon.com/512/919/919836.png" width="40" height="40" alt="GIT">
 	&nbsp;
 </div>
 	&nbsp;
